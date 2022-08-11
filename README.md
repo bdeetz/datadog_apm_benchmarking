@@ -40,7 +40,9 @@ sys    0m0.493s
 
 ## Setup
 ```
-apt-get install python3.8-venv 
+apt-get install python3.8-venv
+git clone https://github.com/bdeetz/datadog_apm_benchmarking.git
+cd datadog_apm_benchmarking
 python3.8 -m venv venv
 source venv/bin/activate
 pip install --upgrade pip
