@@ -1,6 +1,7 @@
 #!/usr/bin/env python
+from ddtrace import tracer
 
-
+@tracer.wrap()
 def my_func(count=0):
     count += 1
 
