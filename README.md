@@ -1,4 +1,7 @@
 # APM Benchmarking Tools
+## NOTES
+In order to use this benchmark tool, you will need to execute on a host with the datadog agent installed and correctly emmitting telemetry to DataDog
+
 ## RESULTS
 ```
 (venv) bradydeetz@192.168.1.2:~/datadog_apm_benchmarking > ./run_benchmarks.sh
