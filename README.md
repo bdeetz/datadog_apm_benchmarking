@@ -4,7 +4,7 @@ In order to use this benchmark tool, you will need to execute on a host with the
 
 ## RESULTS
 ```
-(venv) bradydeetz@192.168.1.2:~/datadog_apm_benchmarking > ./run_benchmarks.sh
+(venv) bdeetz@192.168.1.2:~/datadog_apm_benchmarking > ./run_benchmarks.sh
 iterative non apm
 -------------------------
 
